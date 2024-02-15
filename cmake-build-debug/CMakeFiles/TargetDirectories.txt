@@ -1,0 +1,3 @@
+/Users/gerbo20/Documents/GMU/Spring_2024/CS_262/Excercise/MathRace/cmake-build-debug/CMakeFiles/MathRace.dir
+/Users/gerbo20/Documents/GMU/Spring_2024/CS_262/Excercise/MathRace/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gerbo20/Documents/GMU/Spring_2024/CS_262/Excercise/MathRace/cmake-build-debug/CMakeFiles/rebuild_cache.dir
